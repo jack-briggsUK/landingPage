@@ -1,0 +1,39 @@
+html {
+    background-color: black;
+    font-family: 'Roboto mono', 'Courier New', Courier, monospace;
+    color:hsl(167, 9%, 81%);
+}
+
+.titleBar {
+    text-align: center;
+    background-color: teal;
+    position: -webkit-sticky;
+    position: sticky;
+}
+
+h2 {
+
+}
+
+a {
+    color: hsla(166, 100%, 84%, 0.81);
+}
+
+a:hover {
+    color:white;
+}
+
+
+
+
+
+
+footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    background-color: teal;
+    padding-left: 20px;
+    color: hsl(167, 9%, 81%);
+}
